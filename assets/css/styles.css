@@ -1581,7 +1581,7 @@ margin-bottom: .5rem;
 }
 
 .contact__message{
-  bottom: 2.5rem;
+  bottom: -2.5rem;
 }
 
 .dark-theme .contact__data{
