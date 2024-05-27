@@ -1,7 +1,6 @@
 # Responsive Portfolio Website Cliff
-## One of the tutorials from [Youtube](https://youtu.be/sF0vW0GgL3U)
 ## Website directory: https://cliffsiu.github.io/
-#### Responsive Portfolio Website Tailor
+#### Responsive Portfolio Website 
 
 
 Skill: HTML, CSS, JavaScript, Git.
@@ -14,3 +13,6 @@ Skill: HTML, CSS, JavaScript, Git.
 - Sending emails in the contact section.
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
+
+
+![Resume cv](/preview.png)
